@@ -13,3 +13,8 @@
 
 3、自动识别该节点子元素个数和字段并写入csv文件中
 ![image](https://github.com/source-xu/burp_jsonx/assets/56073532/925cd984-64a5-4c06-8583-8e748b68576b)
+
+![image](https://github.com/source-xu/burp_jsonx/assets/56073532/064f0c70-ecc8-4688-a04f-5ce899510a69)
+
+![image](https://github.com/source-xu/burp_jsonx/assets/56073532/b0443060-169a-46f1-8397-fa452bceb3c5)
+
